@@ -34,7 +34,7 @@ body {
 /* Lead with big image */
 
 .wrapper {
-  background-image: url('../images/liberty_files/ete3.png');
+  background-image: url('../images/background/ete3.jpg');
   height: 650px;
   background-size: cover;
   padding-top: 150px;
